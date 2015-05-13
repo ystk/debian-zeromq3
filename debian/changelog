@@ -1,3 +1,10 @@
+zeromq3 (4.0.5+dfsg-2+deb8u1) jessie-security; urgency=high
+
+  * V3 protocol handler vulnerable to downgrade attacks, use upstream
+    backported fix for this issue.
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Tue, 05 May 2015 21:52:22 +0000
+
 zeromq3 (4.0.5+dfsg-2) unstable; urgency=medium
 
   * Don't use test_security_curve to prevent FTBFS.
