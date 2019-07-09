@@ -1,3 +1,13 @@
+zeromq3 (4.0.5+dfsg-2+deb8u2) jessie-security; urgency=high
+
+  * Non-maintainer upload by the LTS Team. 
+  * CVE-2019-13132
+    fix stack overflow on servers running CURVE
+    encryption/authentication.
+    (Thanks to Luca Boccassi for the patch)
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Mon, 08 Jul 2019 18:03:02 +0200
+
 zeromq3 (4.0.5+dfsg-2+deb8u1) jessie-security; urgency=high
 
   * V3 protocol handler vulnerable to downgrade attacks, use upstream
