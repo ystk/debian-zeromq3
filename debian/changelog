@@ -1,3 +1,11 @@
+zeromq3 (4.0.5+dfsg-2+deb8u3) jessie-security; urgency=high
+
+  * Non-maintainer upload by the ELTS team. 
+  * zeromq connects peer before handshake is completed.
+    (CVE-2020-15166)
+
+ -- Utkarsh Gupta <utkarsh@debian.org>  Tue, 10 Nov 2020 14:33:12 +0530
+
 zeromq3 (4.0.5+dfsg-2+deb8u2) jessie-security; urgency=high
 
   * Non-maintainer upload by the LTS Team. 
