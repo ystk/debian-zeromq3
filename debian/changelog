@@ -1,3 +1,11 @@
+zeromq3 (4.0.5+dfsg-2+deb8u4) jessie-security; urgency=high
+
+  * Non-maintainer upload by the ELTS Team.
+  * CVE-2021-20234
+    Memory leak in client induced by malicious server without CURVE/ZAP
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Sat, 20 Mar 2021 16:03:02 +0100
+
 zeromq3 (4.0.5+dfsg-2+deb8u3) jessie-security; urgency=high
 
   * Non-maintainer upload by the ELTS team. 

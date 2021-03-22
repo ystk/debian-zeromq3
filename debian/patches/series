@@ -3,3 +3,5 @@ disable-test_security_curve.patch
 protocol-downgrade-attack.patch
 CVE-2019-13132-curve-overflow.patch
 CVE-2020-15166.patch
+
+CVE-2021-20234-unfinisched-message-leak.patch
